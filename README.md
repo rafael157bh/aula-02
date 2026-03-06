@@ -100,5 +100,5 @@ Teste os endpoints com Postman, Insomnia ou diretamente no navegador.
 
 # 👨‍💻 Autor
 
-Arthur Berwanger
+Rafael Barzaghi
 Curso: Análise e Desenvolvimento de Sistemas
